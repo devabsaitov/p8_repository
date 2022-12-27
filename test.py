@@ -1,2 +1,3 @@
 print('hello world')
-print('M.s siuuuuuuuuuuuuuuuuu')
+for i in range(11):
+    print('Siuuuu')
